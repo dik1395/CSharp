@@ -1,0 +1,15 @@
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\bin\Debug\net8.0\Task1.exe
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\bin\Debug\net8.0\Task1.dll
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\obj\Debug\net8.0\Task1.sourcelink.json
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\obj\Debug\net8.0\Task1.dll
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\Korch\YandexDisk\Учёба\Обучение GB\Основная программа\Знакоство с языками программирования (лекции)\CSharp\Lesson01\Task1\obj\Debug\net8.0\ref\Task1.dll
